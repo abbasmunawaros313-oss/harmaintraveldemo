@@ -202,7 +202,7 @@ export default function Home() {
       <div className="py-16 px-6 relative z-20">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-10 text-white animate-fade-in-up">
-            Why Choose <span className="text-blue-400">OS Travels?</span>
+            Why Choose <span className="text-blue-400">Harmain Travels?</span>
           </h2>
           <div className="grid md:grid-cols-3 gap-8 text-gray-300">
             <div className="p-8 bg-white/5 border border-red-400 rounded-2xl shadow-xl hover:shadow-2xl hover:scale-105 transition-transform animate-staggered-fade-in" style={{ animationDelay: '3s' }}>
